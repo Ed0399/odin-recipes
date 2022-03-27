@@ -1,24 +1,30 @@
 * {
-  background-color:rgb(54, 67, 80)
+  background-color:rgb(54, 67, 80);
 }
 
 h1 {
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 56px;
   text-align: center;
-  color:gold
+  color:gold;
 }
 
 h2 {
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 36px;
-  color:gold
+  color:gold;
 }
 
 h3 {
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 20px;
-  color:gold
+  color:gold;
+}
+
+a {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: gold;
 }
 
 p {
@@ -39,6 +45,14 @@ ul {
   font-size: 16px;
   line-height: 135%;
   color: #fcf5d7;
+}
+
+.recipelist a {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 24px;
+  line-height: 135%;
+  color: gold;
+  font-weight: bold;
 }
 
 img {
