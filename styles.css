@@ -2,23 +2,24 @@
   background-color:rgb(54, 67, 80);
 }
 
-h1 {
+h1,
+h2,
+h3 {
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color:gold;
+}
+
+h1 {
   font-size: 56px;
   text-align: center;
-  color:gold;
 }
 
 h2 {
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 36px;
-  color:gold;
 }
 
 h3 {
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 20px;
-  color:gold;
+  font-size: 22px;
 }
 
 a {
@@ -33,13 +34,7 @@ p {
   color: #fcf5d7;
 }
 
-ol {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 16px;
-  line-height: 135%;
-  color: #fcf5d7;
-}
-
+ol,
 ul {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
@@ -64,9 +59,5 @@ img {
 }
 
 img.bread {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  height: auto;
   width: 450px;
 }
