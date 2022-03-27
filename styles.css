@@ -42,6 +42,13 @@ ul {
   color: #fcf5d7;
 }
 
+.recipelist {
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
 .recipelist a {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 24px;
